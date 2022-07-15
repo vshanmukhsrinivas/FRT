@@ -1,6 +1,7 @@
 Azure Project
 
-Pavan Edu-platform
+
+SHANMUKH'S EDUCATION PLATFORM
 
 To create a web application for the students to access the free resources for their career progress with different categories and also implement a chat bot service to get more resources for students.
 
